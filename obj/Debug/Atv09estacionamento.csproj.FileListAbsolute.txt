@@ -1,0 +1,7 @@
+C:\Users\wendell.mcardoso\source\repos\Atv09estacionamento\Atv09estacionamento\bin\Debug\Atv09estacionamento.exe.config
+C:\Users\wendell.mcardoso\source\repos\Atv09estacionamento\Atv09estacionamento\bin\Debug\Atv09estacionamento.exe
+C:\Users\wendell.mcardoso\source\repos\Atv09estacionamento\Atv09estacionamento\bin\Debug\Atv09estacionamento.pdb
+C:\Users\wendell.mcardoso\source\repos\Atv09estacionamento\Atv09estacionamento\obj\Debug\Atv09estacionamento.csproj.AssemblyReference.cache
+C:\Users\wendell.mcardoso\source\repos\Atv09estacionamento\Atv09estacionamento\obj\Debug\Atv09estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\wendell.mcardoso\source\repos\Atv09estacionamento\Atv09estacionamento\obj\Debug\Atv09estacionamento.exe
+C:\Users\wendell.mcardoso\source\repos\Atv09estacionamento\Atv09estacionamento\obj\Debug\Atv09estacionamento.pdb
